@@ -4,9 +4,7 @@
     header{
         display: none;
     }
-    body{
-        background-image: url('../img/mensajeDeResolucion.png');
-    }
+
     .mensajeDeResolucion{
         display: flex;
         font-size: 50px;
